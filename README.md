@@ -8,18 +8,6 @@ The project demonstrates data cleaning, statistical analysis, data visualization
 
 ---
 
-## Technologies Used
-
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-
----
-
 ## Dataset
 
 The project uses the following World Happiness Report datasets:
@@ -88,15 +76,6 @@ The datasets contain information related to:
 - Pie Chart
 - Year-wise Happiness Trend
 
-### Machine Learning
-
-- Train/Test Split
-- Linear Regression Model
-- Happiness Score Prediction
-- Model Evaluation using:
-  - R² Score
-  - RMSE
-
 ### File Export
 
 - Save Cleaned Dataset as CSV
@@ -134,64 +113,28 @@ Final_Project/
 │
 └── Final_Project.ipynb
 ```
+---
+## Output Screenshots
+
+### Output 1
+
+![Output 1](FT1.png)
+
+### Output 2
+
+![Output 2](FT2.png)
+
 
 ---
 
-## Installation
+## 🎥 Project Demo Video
 
-Install required libraries:
+Watch the complete project demonstration here:
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
-```
-
----
-
-## How to Run
-
-1. Download all dataset files.
-2. Place all CSV files in the project folder.
-3. Open Jupyter Notebook.
-4. Run all cells sequentially.
-5. View analysis results and generated visualizations.
-6. Export cleaned datasets and graphs.
-
----
-
-## Sample Outputs
-
-- Correlation Heatmap
-- Country-wise Happiness Analysis
-- Year-wise Happiness Trend
-- Happiness Score Prediction
-- Saved Graph Images
-- CSV and Excel Reports
-
----
-
-## Learning Outcomes
-
-This project demonstrates:
-
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Visualization
-- Machine Learning
-- File Handling
-- Report Generation
+[▶ Watch Demo Video](https://drive.google.com/file/d/1wDq5vrSqPXqrSkUraquRwhPMNmfdmz3M/view)
 
 ---
 
 ## Author
 
 **Sarth Thakar**
-
-MSc IT Student
-
----
-
-## Conclusion
-
-The Global Happiness Report Analysis project provides insights into factors influencing happiness across countries and years. Through data analysis, visualization, and machine learning, the project helps understand global happiness trends and the impact of economic and social indicators on overall well-being.
