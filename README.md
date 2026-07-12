@@ -114,16 +114,127 @@ Final_Project/
 └── Final_Project.ipynb
 ```
 ---
-## Output Screenshots
+# Output Screenshots
 
 ### Output 1
 
-![Output 1](FT1.png)
+![Output 1](FT1.PNG)
 
 ### Output 2
 
-![Output 2](FT2.png)
+![Output 2](FT2.PNG)
 
+### Output 3
+
+![Output 3](FT3.PNG)
+
+### Output 4
+
+![Output 4](FT4.PNG)
+
+### Output 5
+
+![Output 5](FT5.PNG)
+
+### Output 6
+
+![Output 6](FT6.PNG)
+
+### Output 7
+
+![Output 7](FT7.PNG)
+
+### Output 8
+
+![Output 8](FT8.PNG)
+
+### Output 9
+
+![Output 9](FT9.PNG)
+
+### Output 10
+
+![Output 10](FT10.PNG)
+
+### Output 11
+
+![Output 11](FT11.PNG)
+
+### Output 12
+
+![Output 12](FT12.PNG)
+
+### Output 13
+
+![Output 13](FT13.PNG)
+
+### Output 14
+
+![Output 14](FT14.PNG)
+
+### Output 15
+
+![Output 15](FT15.PNG)
+
+### Output 16
+
+![Output 16](FT16.PNG)
+
+### Output 17
+
+![Output 17](FT17.PNG)
+
+### Output 18
+
+![Output 18](FT18.PNG)
+
+### Output 19
+
+![Output 19](FT19.PNG)
+
+### Output 20
+
+![Output 20](FT20.PNG)
+
+### Output 21
+
+![Output 21](FT21.PNG)
+
+### Output 22
+
+![Output 22](FT22.PNG)
+
+### Output 23
+
+![Output 23](FT23.PNG)
+
+### Output 24
+
+![Output 24](FT24.PNG)
+
+### Output 25
+
+![Output 25](FT25.PNG)
+
+### Output 26
+
+![Output 26](FT26.PNG)
+
+### Output 27
+
+![Output 27](FT27.PNG)
+
+### Output 28
+
+![Output 28](FT28.PNG)
+
+### Output 29
+
+![Output 29](FT29.PNG)
+
+### Output 30
+
+![Output 30](FT30.PNG)
 
 ---
 
