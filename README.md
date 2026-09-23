@@ -12,11 +12,11 @@ The project demonstrates data cleaning, statistical analysis, data visualization
 
 The project uses the following World Happiness Report datasets:
 
--2015.CSV
--2016.CSV
--2017.CSV
--2018.CSV
--2019.CSV
+- 2015.CSV
+- 2016.CSV
+- 2017.CSV
+- 2018.CSV
+- 2019.CSV
 
 The datasets contain information related to:
 
